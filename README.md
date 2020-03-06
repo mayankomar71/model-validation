@@ -95,5 +95,11 @@ password:
  ### Output if errors -
 
  Example:
- 
+
 { message: 'Please enter the correct email', errCode: 400 }
+
+## Issues:
+If you find a bug, please file an issue on [our issue tracker on github](https://github.com/mayankomar71/model-validation/issues).
+
+Give us a star if this helped you!
+Cheers!
